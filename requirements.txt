@@ -1,0 +1,16 @@
+livekit-agents
+livekit-api
+livekit-plugins-google
+livekit-plugins-deepgram
+livekit-plugins-cartesia
+livekit-plugins-silero
+livekit-plugins-noise-cancellation
+google-auth
+deepgram-sdk
+python-dotenv
+requests
+aiohttp
+asyncio
+rich
+loguru
+pydantic
